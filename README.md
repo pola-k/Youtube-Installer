@@ -29,19 +29,13 @@ Before running the application, ensure you have the following installed:
 
 ## Installation
 
-1. **Clone the Repository**:
+**Clone the Repository**:
 
    ```bash
    git clone https://github.com/pola-k/Youtube-Installer.git
    cd Youtube-Installer
    ```
-
-2. **Install Dependencies**:
-
-   ```bash
-   pip install pyqt5 youtube-dl
-   ```
-   
+      
 ## Usage
 
 1. **Run the Application**:
