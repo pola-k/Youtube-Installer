@@ -29,7 +29,7 @@ Before running the application, ensure you have the following installed:
 
 ## Installation
 
-**Clone the Repository**:
+  **Clone the Repository**:
 
    ```bash
    git clone https://github.com/pola-k/Youtube-Installer.git
